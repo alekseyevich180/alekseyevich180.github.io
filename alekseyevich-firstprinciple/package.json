@@ -1,0 +1,13 @@
+{
+  "name": "alekseyevich-firstprinciple",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev my-web",
+    "docs:build": "vitepress build my-web",
+    "docs:preview": "vitepress preview my-web"
+  },
+  "devDependencies": {
+    "vitepress": "^1.2.0"
+  }
+}
