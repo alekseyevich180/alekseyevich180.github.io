@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"ReaxFF","description":"","frontmatter":{"title":"ReaxFF"},"headers":[],"relativePath":"MD/ReaxFF.md","filePath":"MD/ReaxFF.md"}'),r={name:"MD/ReaxFF.md"};function o(s,c,n,F,i,p){return a(),t("div")}const m=e(r,[["render",o]]);export{d as __pageData,m as default};

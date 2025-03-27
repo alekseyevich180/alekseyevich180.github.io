@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./chunks/framework.Dh1jimFm.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ML/ML_for_potential.md","filePath":"ML/ML_for_potential.md"}'),a={name:"ML/ML_for_potential.md"};function r(n,_,s,c,p,i){return o(),e("div")}const d=t(a,[["render",r]]);export{l as __pageData,d as default};

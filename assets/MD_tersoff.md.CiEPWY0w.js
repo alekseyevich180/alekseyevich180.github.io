@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.Dh1jimFm.js";const d=JSON.parse('{"title":"tersoff","description":"","frontmatter":{"title":"tersoff"},"headers":[],"relativePath":"MD/tersoff.md","filePath":"MD/tersoff.md"}'),o={name:"MD/tersoff.md"};function s(a,f,c,n,i,p){return r(),t("div")}const m=e(o,[["render",s]]);export{d as __pageData,m as default};
