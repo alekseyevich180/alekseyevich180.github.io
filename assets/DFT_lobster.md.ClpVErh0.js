@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.Dh1jimFm.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"DFT/lobster.md","filePath":"DFT/lobster.md"}'),o={name:"DFT/lobster.md"};function a(s,c,n,l,p,_){return r(),t("div")}const m=e(o,[["render",a]]);export{i as __pageData,m as default};

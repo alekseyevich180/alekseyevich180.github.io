@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.Dh1jimFm.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"DFT/dos.md","filePath":"DFT/dos.md"}'),a={name:"DFT/dos.md"};function s(r,c,n,d,p,_){return o(),t("div")}const f=e(a,[["render",s]]);export{m as __pageData,f as default};
